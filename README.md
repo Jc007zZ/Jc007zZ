@@ -1,5 +1,7 @@
 ## Hi there 👋
-[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=diego3g&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24](https://github-readme-stats.vercel.app/api/top-langs/?username=jc007zz&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24))](https://github.com/gui-loko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jc007zz&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/jc007zz)
+
 <!--
 **Jc007zZ/Jc007zZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
