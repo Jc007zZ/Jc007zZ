@@ -1,9 +1,8 @@
 ## Hi there 👋
- I’m Full stack developer  
- I use Next React Tailwind Fastify Prisma PostgreSQL  
- I’m currently learning DevOps  
+ I’m Web Developer  
+ I use Next Tailwind Fastify Prisma PostgreSQL  
+ I’m currently learning DevOps and Gen Ai
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jc007zz&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/jc007zz)
 
 <!--
 **Jc007zZ/Jc007zZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
